@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    "coenraads.bracket-pair-colorizer-2",
+    "xabikos.javascriptsnippets",
+    "streetsidesoftware.code-spell-checker",
+    "jack89ita.copy-filename",
+    "ms-azuretools.vscode-docker",
+    "mikestead.dotenv",
+    "mrmlnc.vscode-duplicate",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "github.vscode-pull-request-github",
+    "codezombiech.gitignore",
+    "wix.vscode-import-cost",
+    "ms-vscode.vscode-typescript-next",
+    "orta.vscode-jest",
+    "andys8.jest-snippets",
+    "roerohan.mongo-snippets-for-node-js",
+    "mongodb.mongodb-vscode",
+    "william-voyek.vscode-nginx",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "redhat.vscode-yaml",
+    "johnpapa.angular2",
+    "angular.ng-template"
+  ]
+}
