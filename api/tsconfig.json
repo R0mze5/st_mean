@@ -21,6 +21,7 @@
     "isolatedModules": false,
     "noEmit": false,
     "types": ["jest", "node"],
+    "typeRoots": ["./@types"],
     "paths": {
       "@server": ["./server"],
       "@server/*": ["./server/*"]
